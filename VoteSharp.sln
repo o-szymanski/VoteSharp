@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoteSharp.Web", "VoteSharp.Web\VoteSharp.Web.csproj", "{0B32E678-22F0-4642-8464-9D9AF349E58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B32E678-22F0-4642-8464-9D9AF349E58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B32E678-22F0-4642-8464-9D9AF349E58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B32E678-22F0-4642-8464-9D9AF349E58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B32E678-22F0-4642-8464-9D9AF349E58C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97F2DD42-9A99-4DC6-9F32-8B4C223E0D5E}
+	EndGlobalSection
+EndGlobal
